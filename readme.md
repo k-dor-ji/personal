@@ -1,1 +1,1 @@
-![GitHub Snake Animation](https://github.com/<your-username>/<your-repo>/blob/output/github-snake.svg)
+![GitHub Snake Animation](https://github.com/k-dor-ji/personal/blob/output/github-snake.svg)
